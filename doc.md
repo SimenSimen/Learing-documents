@@ -2,8 +2,10 @@
 
 ### 說明
 
-我要學typescript
+學typescript
 
 ### 類型說明
 
-    let isDone: boolean = false;
+```js
+let isDone: boolean = false;
+```
