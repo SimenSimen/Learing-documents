@@ -1,9 +1,3 @@
-# Typesrcipt 學習文件
-
-### 說明
-
-學Typescript
-
 ### 類型說明
 
 ```ts
